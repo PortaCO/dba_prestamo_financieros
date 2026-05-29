@@ -1,4 +1,6 @@
-## Caso: Gestión de Préstamos Financieros Una entidad financiera necesita un sistema para administrar los préstamos otorgados a sus clientes. Este sistema debe permitir registrar y consultar información sobre los clientes, los préstamos otorgados, las cuotas generadas y los pagos realizados.
+## Caso: Gestión de Préstamos Financieros 
+
+Una entidad financiera necesita un sistema para administrar los préstamos otorgados a sus clientes. Este sistema debe permitir registrar y consultar información sobre los clientes, los préstamos otorgados, las cuotas generadas y los pagos realizados.
 
 # Requerimientos:
 
