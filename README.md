@@ -1,4 +1,4 @@
-## Caso: Gestión de Préstamos Financieros 
+<img width="1348" height="712" alt="388783210-f4d51269-3d2b-49ee-8a93-589c62586ce3" src="https://github.com/user-attachments/assets/097ef455-a5c5-4ba7-ab6f-42ead387bffc" />## Caso: Gestión de Préstamos Financieros 
 
 Una entidad financiera necesita un sistema para administrar los préstamos otorgados a sus clientes. Este sistema debe permitir registrar y consultar información sobre los clientes, los préstamos otorgados, las cuotas generadas y los pagos realizados.
 
@@ -23,3 +23,7 @@ Los clientes pueden realizar pagos parciales o totales de una o más cuotas. Se 
 ## Sucursales (opcional):
 
 Cada préstamo debe estar vinculado a la sucursal donde fue otorgado. Cada sucursal tiene un código único, dirección y gerente asignado.
+
+# Modelo Entidad-Relacion
+<img width="1348" height="712" alt="388783210-f4d51269-3d2b-49ee-8a93-589c62586ce3" src="https://github.com/user-attachments/assets/24c2dd60-a784-418e-a98c-95e772431b0a" />
+
