@@ -1,4 +1,4 @@
-<img width="1348" height="712" alt="388783210-f4d51269-3d2b-49ee-8a93-589c62586ce3" src="https://github.com/user-attachments/assets/097ef455-a5c5-4ba7-ab6f-42ead387bffc" />## Caso: Gestión de Préstamos Financieros 
+# Caso: Gestión de Préstamos Financieros 
 
 Una entidad financiera necesita un sistema para administrar los préstamos otorgados a sus clientes. Este sistema debe permitir registrar y consultar información sobre los clientes, los préstamos otorgados, las cuotas generadas y los pagos realizados.
 
