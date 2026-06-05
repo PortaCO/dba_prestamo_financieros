@@ -32,4 +32,5 @@ Cada préstamo debe estar vinculado a la sucursal donde fue otorgado. Cada sucur
 <img width="1201" height="527" alt="image" src="https://github.com/user-attachments/assets/d6b7f466-046c-4e47-a845-9fe87a335c59" />
 
 # Modelo Fisico
+<img width="706" height="510" alt="image" src="https://github.com/user-attachments/assets/91c3170c-1e47-46a7-ac47-e4fd03d432e8" />
 
